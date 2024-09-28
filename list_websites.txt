@@ -1,0 +1,7 @@
+Websites I've used in my projects:
+1. https://www.w3schools.com/
+2. https://www.python.org/doc/
+3. https://pandas.pydata.org/docs/user_guide/index.html#user-guide
+4. https://plotly.com/python-api-reference/generated/plotly.graph_objects.Figure.html
+5. https://www.color-hex.com/
+6. https://medium.com/
